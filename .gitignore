@@ -1,0 +1,27 @@
+# File sistem macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnail
+._*
+
+# File yang mungkin dibuat di root volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# File IDE/editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Log dan database
+*.log
+*.sql
+*.sqlite
